@@ -1,4 +1,4 @@
-<h1>Jogo "Acerte o Alvo!"</h1>
+<h1>Jogo "Acerte o Alvo!" 🎯</h1> 
 
 <br>
 
